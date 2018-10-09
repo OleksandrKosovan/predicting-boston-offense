@@ -7,7 +7,7 @@ You can found this data on Kaggle.
 
 This is a dataset containing records from the new crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred.
 
-*This dataset has 2,60,760 rows and 17 columns.* More information about data [**in my JN**](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/1-Kaggle-data/1-research-for-each-column.ipynb) :link:
+*This dataset has 2,60,760 rows and 17 columns.* More information about data [**in my JN**](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/1-Kaggle-data/1-research-for-each-column.ipynb) :link:
 
 ## **II.** Inspiration / First hypothesis and questions :shipit:
 
@@ -19,7 +19,7 @@ This is a dataset containing records from the new crime incident report system, 
 ## **III.** Visualization  :chart_with_downwards_trend:
 
 I built bar charts and scatter plot  for each useful columns. You can see it in my Kaggle Kernel. 
-[**Link**](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/1-Kaggle-data/2-visualization-for-each-column.ipynb) :link:
+[**Link**](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/1-Kaggle-data/2-visualization-for-each-column.ipynb) :link:
 
 ## **IV.** Modeling :boom:
 
@@ -165,7 +165,7 @@ It is interest result, because clusters are not district. Clusters are different
 
 ## V. Conclusion for modeling :eight_spoked_asterisk:
 
-Jupiter Notebook with modeling - [**LINK**](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/1-Kaggle-data/3-Boston-offenses-research-visualization-modeling.ipynb) :link:
+Jupiter Notebook with modeling - [**LINK**](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/1-Kaggle-data/3-Boston-offenses-research-visualization-modeling.ipynb) :link:
 
 Our first goal is get result - f1 score = 0.7. But models didn't have it. I think, problem was not enough data.  
 
