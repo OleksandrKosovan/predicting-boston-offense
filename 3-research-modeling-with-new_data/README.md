@@ -122,7 +122,7 @@ When i used old data, my the best result was LGBM (f1 score = **0.2641**). Then 
 
 New data give for us new opportunities. Results are not good enough. The best result -  LGBM (f1 score = **0.2862**). 	When i added new featured - (Day, Night, ToDay, ToNight), i didn't get better result, than i had.
 
-[Jupyter Notebook Link](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/3-research-modeling-with-new_data/2-modeling-offense-crime-code.ipynb) :link:
+[Jupyter Notebook Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/3-research-modeling-with-new_data/2-modeling-offense-crime-code.ipynb) :link:
 	
 ![alt text](https://image.ibb.co/itbOMz/newresults.png)
     
@@ -147,7 +147,7 @@ Next my step was fit model for predict ‘District’. I used information about 
 	
 When i used old data, i got not good results. The best f1 score - 0.1171 with Random Forest.We didn't get good result with new data too. F1 score is **0.1602** with LGBM.
 
-[Jupyter Notebook Link](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/3-research-modeling-with-new_data/3-modeling-district.ipynb) :link:
+[Jupyter Notebook Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/3-research-modeling-with-new_data/3-modeling-district.ipynb) :link:
 
 
 Model | F1 score
@@ -183,7 +183,7 @@ So, our output data is *UCR part* (3 categories/ 3 different parts).
 	
 **About our results**
 
-[Jupyter Notebook Link](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/3-research-modeling-with-new_data/4-modeling-UCR_PART.ipynb) :link:
+[Jupyter Notebook Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/3-research-modeling-with-new_data/4-modeling-UCR_PART.ipynb) :link:
 
 The best result for old data is  **0.4338** with Random Forest model. It is better result than with other models. But it is not enough. Then i used new data and i got next result - **0.4714** with LGBM model.
 
