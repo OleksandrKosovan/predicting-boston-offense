@@ -63,7 +63,7 @@ DAY |	int |	1-31 |	-
 OCCURRED_ON_DATE |	datetime |	-	 | YYYY-MM-DD HH:MM:SS
 DAY_OF_WEEK |	category |	Monday - Sunday |	-
 HOUR |	int | 	0-23 |	-
-DISTRICT |	categories	12 unique values |	"A district is a type of administrative division that, in some countries, is managed by local government."
+DISTRICT |	categories	| 12 unique values |	"A district is a type of administrative division that, in some countries, is managed by local government."
 Lat	| float | 	-	| Location latitude 
 Long |	float	| -	| Location longitude
 OFFENSE_CODE_GROUP |	categories |	20-23 unique values |	I used 10 groups
@@ -80,8 +80,18 @@ temperatureMax	| float	-
 temperatureDifference	| float	| -	| temperatureMax - temperatureMin
 precipitation	| float	| -	
 snow	|float |	-	
-
-
+clust_50
+clust_100
+clust_200
+Universities_colleges_distance_25
+Universities_colleges_distance_min
+Universities_colleges_number_near
+Public_schools_distance_25
+Public_schools_distance_min
+Public_schools_number_near
+Non-Public_schools_distance_25
+Non-Public_schools_distance_min
+Non-Public_schools_number_near
 
 - Results
 
