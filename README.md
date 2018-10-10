@@ -84,15 +84,15 @@ snow	|float |	-
 clust_50 | int | 50 | K-means clusters for Location (Lat, Long)
 clust_100 | int | 100 | K-means clusters for Location (Lat, Long)
 clust_200 | int | 200 | K-means clusters for Location (Lat, Long)
-Universities_colleges_distance_25 | float | Percentile for all distances (25%)
-Universities_colleges_distance_min | float | Minimum distance some object near offenses location
-Universities_colleges_number_near | int | Number of Universities & colleges, which is nearer than 3 km for offenses location
-Public_schools_distance_25 | float | Percentile for all distances (25%)
-Public_schools_distance_min | float | Minimum distance some object near offenses location
-Public_schools_number_near | int | Number of Public schools, which is nearer than 3 km for offenses location
-Non-Public_schools_distance_25 | float | Percentile for all distances (25%)
-Non-Public_schools_distance_min | float | Minimum distance some object near offenses location
-Non-Public_schools_number_near | int | Number of Non Public schools, which is nearer than 3 km for offenses location
+Universities_colleges_distance_25 | float | - | Percentile for all distances (25%)
+Universities_colleges_distance_min | float | - | Minimum distance some object near offenses location
+Universities_colleges_number_near | int | - | Number of Universities & colleges, which is nearer than 3 km for offenses location
+Public_schools_distance_25 | float | - | Percentile for all distances (25%)
+Public_schools_distance_min | float | - | Minimum distance some object near offenses location
+Public_schools_number_near | int | - | Number of Public schools, which is nearer than 3 km for offenses location
+Non-Public_schools_distance_25 | float | - | Percentile for all distances (25%)
+Non-Public_schools_distance_min | float | - | Minimum distance some object near offenses location
+Non-Public_schools_number_near | int | - | Number of Non Public schools, which is nearer than 3 km for offenses location
 
 - Results
 
