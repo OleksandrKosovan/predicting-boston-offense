@@ -80,18 +80,19 @@ temperatureMax	| float	-
 temperatureDifference	| float	| -	| temperatureMax - temperatureMin
 precipitation	| float	| -	
 snow	|float |	-	
-clust_50
-clust_100
-clust_200
-Universities_colleges_distance_25
-Universities_colleges_distance_min
-Universities_colleges_number_near
-Public_schools_distance_25
-Public_schools_distance_min
-Public_schools_number_near
-Non-Public_schools_distance_25
-Non-Public_schools_distance_min
-Non-Public_schools_number_near
+**New data**
+clust_50 | int | 50
+clust_100 | int | 100
+clust_200 | int | 200
+Universities_colleges_distance_25 | float
+Universities_colleges_distance_min | float
+Universities_colleges_number_near | int
+Public_schools_distance_25 | float
+Public_schools_distance_min | float
+Public_schools_number_near | int
+Non-Public_schools_distance_25 | float
+Non-Public_schools_distance_min | float
+Non-Public_schools_number_near | int
 
 - Results
 
