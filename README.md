@@ -58,29 +58,28 @@ And it can help reduce number of offenses.
 NAME	| Format | Unique value |	Note
 ------|--------|--------------|------
 YEAR |	int	| 2012-2018 |	-
-MONTH	int	1-12	-
-DAY	int	1-31	-
-OCCURRED_ON_DATE	datetime	-	YYYY-MM-DD HH:MM:SS
-DAY_OF_WEEK	object	Monday - Sunday	-
-HOUR	int	0-23	-
-DISTRICT	categories	12 unique values	"A district is a type of administrative division that, 
-in some countries, is managed by local government."
-Lat	float	-	Location latitude 
-Long	float	-	Location longitude
-OFFENSE_CODE_GROUP	categories	20-23 unique values	I used 10 groups
-REPORTING_AREA	int	-	Codes for reporting areas
-SHOOTING	boolean	0/1	Offenses with shooting or without shooting
-UCR_PART	categories	4 unique values	The Uniform Crime Reports (UCR)
-Day	boolean	0/1	Day or night
-Night	boolean	0/1	Night or day
-ToDay	int	-	Number of hour to day
-ToNight	int	-	Number of hour to night
-WEATHER			
-temperatureMin	float	-	
-temperatureMax	float	-	
-temperatureDifference	float	-	temperatureMax - temperatureMin
-precipitation	float	-	
-snow	float	-	
+MONTH |	int |	1-12 |	-
+DAY |	int |	1-31 |	-
+OCCURRED_ON_DATE |	datetime |	-	 | YYYY-MM-DD HH:MM:SS
+DAY_OF_WEEK |	category |	Monday - Sunday |	-
+HOUR |	int | 	0-23 |	-
+DISTRICT |	categories	12 unique values |	"A district is a type of administrative division that, in some countries, is managed by local government."
+Lat	| float | 	-	| Location latitude 
+Long |	float	| -	| Location longitude
+OFFENSE_CODE_GROUP |	categories |	20-23 unique values |	I used 10 groups
+REPORTING_AREA	| int	| -	| Codes for reporting areas
+SHOOTING | boolean	| 0/1	| Offenses with shooting or without shooting
+UCR_PART	| categories |	4 unique values |	The Uniform Crime Reports (UCR)
+Day	| boolean |	0/1	| Day or night
+Night |	boolean| 	0/1	| Night or day
+ToDay	| int	| - |	Number of hour to day
+ToNight |	int	|-	| Number of hour to night
+**WEATHER**			
+temperatureMin	| float	-	
+temperatureMax	| float	-	
+temperatureDifference	| float	| -	| temperatureMax - temperatureMin
+precipitation	| float	| -	
+snow	|float |	-	
 
 
 
@@ -91,8 +90,6 @@ snow	float	-
 
 
 # IV. Other interesting results. Visualization
-
-![alt text](https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif)
 
 ### Number of offenses for each years (2013-2017)
 
