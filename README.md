@@ -100,8 +100,18 @@ Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 ------|---------|----|---|---|---|---|---|---|---|---|---
 **Random Forest** | 0.2829 | 0.331 | 0.42 | 0.22 | 0.179 | 0.223 | 0.123 | 0.134 | 0.519 | 0.175 | 0.324 
 
-
-
+ `   
+    'Motor Vehicle Accident Response':1, 
+    'Larceny':2, 
+    'Medical Assistance':3,
+    'Simple Assault':4, 
+    'Violations':5, 
+    'Investigate Person':6, 
+    'Vandalism':7,
+    'Drug Violation':8, 
+    'Larceny From Motor Vehicle':9, 
+    'Towed':10
+`
 
 
 
