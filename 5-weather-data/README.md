@@ -8,7 +8,7 @@ I didn't found good weather data for this time. But i found useful website with 
 
 Then i want to get weather data from this website in csv format. I will use BeautifulSoup for parsing. 
 
-Jupyter Notebook - parsing - [link](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/5-weather-data/1-parsing-for-weather-data.ipynb) :link:
+Jupyter Notebook - parsing - [link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/5-weather-data/1-parsing-for-weather-data.ipynb) :link:
 
 After that, i got weather data for 2012-2018 year (for each days). This dataset contain next column:
 
@@ -23,7 +23,7 @@ After that, i got weather data for 2012-2018 year (for each days). This dataset 
 
 I am going to merge it with total crime data.
 
-Jupyter Notebook - preparation data for merging - [link](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/5-weather-data/2-preparation-weather-data-for-merging.ipynb) :link:
+Jupyter Notebook - preparation data for merging - [link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/5-weather-data/2-preparation-weather-data-for-merging.ipynb) :link:
 
 # II. Merging data & Features engineering
 
