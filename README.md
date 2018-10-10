@@ -29,6 +29,8 @@ And it can help reduce number of offenses.
 
 # II. Project content
 
+![alt text](https://thumbs.gfycat.com/DearComfortableCub-small.gif)
+
 1. Using Kaggle data. Offenses for 2015-2018 years. (*Visualization, modeling*)[Link](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/1-Kaggle-data) :link:
 
 2. Merging data. Offenses for 2012-2018 years. [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/2-marge_data) :link:
@@ -45,9 +47,52 @@ And it can help reduce number of offenses.
 
 # III. The best machine learning results
 
-Some results.
+![alt text](http://www.sixthcents.net/images/macbook.gif)
+
+### Multi class classification
+
+**1. Fitting with all data**
+
+- Abou data: [Link](d) :limk:
+
+NAME	| Format | Unique value |	Note
+------|--------|--------------|------
+YEAR |	int	| 2012-2018 |	-
+MONTH	int	1-12	-
+DAY	int	1-31	-
+OCCURRED_ON_DATE	datetime	-	YYYY-MM-DD HH:MM:SS
+DAY_OF_WEEK	object	Monday - Sunday	-
+HOUR	int	0-23	-
+DISTRICT	categories	12 unique values	"A district is a type of administrative division that, 
+in some countries, is managed by local government."
+Lat	float	-	Location latitude 
+Long	float	-	Location longitude
+OFFENSE_CODE_GROUP	categories	20-23 unique values	I used 10 groups
+REPORTING_AREA	int	-	Codes for reporting areas
+SHOOTING	boolean	0/1	Offenses with shooting or without shooting
+UCR_PART	categories	4 unique values	The Uniform Crime Reports (UCR)
+Day	boolean	0/1	Day or night
+Night	boolean	0/1	Night or day
+ToDay	int	-	Number of hour to day
+ToNight	int	-	Number of hour to night
+WEATHER			
+temperatureMin	float	-	
+temperatureMax	float	-	
+temperatureDifference	float	-	temperatureMax - temperatureMin
+precipitation	float	-	
+snow	float	-	
+
+
+
+- Results
+
+
+
+
 
 # IV. Other interesting results. Visualization
+
+![alt text](https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif)
 
 ### Number of offenses for each years (2013-2017)
 
