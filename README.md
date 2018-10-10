@@ -51,9 +51,9 @@ And it can help reduce number of offenses.
 
 ### Multi class classification
 
-**1. Fitting with all data**
+**Data**
 
-- Data:
+
 
 NAME	| Format | Unique value |	Note
 ------|--------|--------------|------
@@ -94,7 +94,10 @@ Non-Public_schools_distance_25 | float | - | Percentile for all distances (25%)
 Non-Public_schools_distance_min | float | - | Minimum distance some object near offenses location
 Non-Public_schools_number_near | int | - | Number of Non Public schools, which is nearer than 3 km for offenses location
 
-- Results:
+
+**1. Fitting with all data**
+
+
 
 Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 ------|---------|----|---|---|---|---|---|---|---|---|---
@@ -129,7 +132,12 @@ Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 
 [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/1-1-total-data.ipynb) :link:
 
+
+
 **3. Select 2013-2015 | 2016-2018 years
+
+
+
 
 Simular fitting, but first for 2013-2015 years
 
@@ -146,8 +154,14 @@ Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 **Random Forest** |  0.3064 | 0.4005 | 0.393 | 0.2502 | 0.1355 | 0.1687 | 0.1628 | 0.1005 | 0.5673 | 0.1258 | 0.3451
 
 [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/2-select-years-16-17-18.ipynb) :link:
- 
+
+
+
+
 **4. Fitting for three classes with the best F1 score
+
+
+
 
 There are `Motor Vehicle Accident Response` & `Larceny` & `Drug Violation`
 
@@ -157,13 +171,20 @@ Random Forest | 0.6657 | 0.6753 | 0.6661 | 0.6444
 
 [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/3-three-groups.ipynb) :link:
 
-**4. Fitting for three classes with the best F1 score. And selecing 2016-2018 years
+
+
+**5. Fitting for three classes with the best F1 score. And selecing 2016-2018 years
+
+
 
 Model | F1 score | Motor Vehicle Accident Response | Larceny | Drug Violation
 ------|----------|---------------------------------|---------|---------------
 Random Forest | 0.6827 | 0.73338225 | 0.60283871 | 0.66832093
 
 [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/4-three-groups-and-select%20year.ipynb) :link:
+
+
+
 
 
 # IV. Other interesting results. Visualization
