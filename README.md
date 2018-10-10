@@ -2,6 +2,8 @@
 
 # I. Business Proposal
 
+![alt text](https://media.giphy.com/media/3o85xm0pDVY4EkKdFe/giphy.gif)
+
 **How safe is Boston compared with other big cities around the United States?**
 
 It ranked roughly in the middle. Boston was more violent than New York and Seattle, but less violent than Chicago and Las Vegas, according to numbers from the FBI, based on crimes committed in 2015. Nationally, Boston ranked 47 out of 79 cities with populations of 250,000 or more. [*Sourse*](https://www.northeastern.edu/thescope/2017/06/21/boston-crime-map-how-safe-is-your-neighborhood/)
