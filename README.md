@@ -53,7 +53,7 @@ And it can help reduce number of offenses.
 
 **1. Fitting with all data**
 
-- Abou data: [Link](d) :limk:
+- Data:
 
 NAME	| Format | Unique value |	Note
 ------|--------|--------------|------
@@ -94,7 +94,13 @@ Non-Public_schools_distance_25 | float | - | Percentile for all distances (25%)
 Non-Public_schools_distance_min | float | - | Minimum distance some object near offenses location
 Non-Public_schools_number_near | int | - | Number of Non Public schools, which is nearer than 3 km for offenses location
 
-- Results
+- Results:
+
+Model | F1 Score | Motor Vehicle Accident Response | Larceny | Medical Assistance | Simple Assault | Violations | Investigate Person | Vandalism | Drug Violation | Larceny From Motor Vehicle | Towed
+
+**Random Forest** 0.2829 | 0.33108325, 0.42027585, 0.22042822, 0.17915155, 0.22399002,
+        0.12333826, 0.13448762, 0.51912868, 0.17553882, 0.32405992,
+
 
 
 
