@@ -100,6 +100,7 @@ Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 ------|---------|----|---|---|---|---|---|---|---|---|---
 **Random Forest** | 0.2829 | 0.331 | 0.42 | 0.22 | 0.179 | 0.223 | 0.123 | 0.134 | 0.519 | 0.175 | 0.324 
 
+Number of class:
  `   
     'Motor Vehicle Accident Response':1, 
     'Larceny':2, 
@@ -112,6 +113,14 @@ Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
     'Larceny From Motor Vehicle':9, 
     'Towed':10
 `
+**2. Elimination some features **
+
+Simular fitting, bu it is without *Location (Lat & Long)*
+
+Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+------|---------|----|---|---|---|---|---|---|---|---|---
+**Random Forest** | 0.2856 | 0.331 | 0.416 | 0.228 | 0.186 | 0.2301 | 0.132 | 0.127 | 0.527 | 0.1805 | 0.321
+
 
 
 
