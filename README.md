@@ -134,7 +134,7 @@ Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 
 
 
-**3. Select 2013-2015 | 2016-2018 years
+**3. Select 2013-2015 | 2016-2018 years**
 
 
 
@@ -158,7 +158,7 @@ Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 
 
 
-**4. Fitting for three classes with the best F1 score
+**4. Fitting for three classes with the best F1 score**
 
 
 
@@ -173,7 +173,7 @@ Random Forest | 0.6657 | 0.6753 | 0.6661 | 0.6444
 
 
 
-**5. Fitting for three classes with the best F1 score. And selecing 2016-2018 years
+**5. Fitting for three classes with the best F1 score. And selecing 2016-2018 years**
 
 
 
