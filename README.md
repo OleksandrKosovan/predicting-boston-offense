@@ -45,6 +45,10 @@ And it can help reduce number of offenses.
 
 7. [Adding data](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/7-Adding-new-data) :link:
 
+8. Visualization: [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/8-Visualization) :link:
+
+9. Machine Learning: [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/9-machine-learning) :link:
+
 # III. The best machine learning results
 
 ![alt text](http://www.sixthcents.net/images/macbook.gif)
@@ -184,7 +188,15 @@ Random Forest | 0.6827 | 0.73338225 | 0.60283871 | 0.66832093
 [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/4-three-groups-and-select%20year.ipynb) :link:
 
 
+### Multi label classification
 
+[Preparation data](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/6-modeling-with-weather-data/2-preparation-data-for-multi-label-classifiaction.ipynb) :link:
+
+[Modeling](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/6-modeling-with-weather-data/3-modeling-multi-labels.ipynb) :link:
+
+**Results**
+
+*Decision Tree* - 0.1886 (F1 score)
 
 
 # IV. Other interesting results. Visualization
