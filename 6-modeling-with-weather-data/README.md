@@ -2,7 +2,7 @@
 
 I fitted multi classification models for offense code groups.
 
-Jupyter Notebook - [modeling](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/6-modeling-with-weather-data/1-modeling.ipynb) :link:
+Jupyter Notebook - [modeling](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/6-modeling-with-weather-data/1-modeling.ipynb) :link:
 
 Groups (categories), which we predict:
 - 'Other', 
@@ -39,7 +39,7 @@ I have two hypothesis for it. We can use multi label classification, because som
 
 I want to do multi label classification for my dataset. But my data is no preparation for it. My data is like it. There are some input data and column with our classes. 
 
-Jupyter Notebook - [Link](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/6-modeling-with-weather-data/2-preparation-data-for-multi-label-classifiaction.ipynb) :link:
+Jupyter Notebook - [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/6-modeling-with-weather-data/2-preparation-data-for-multi-label-classifiaction.ipynb) :link:
 
 **I need data like it:**
 
@@ -60,7 +60,7 @@ Then i will fit models for multi label classification.
 
 # III. Multi label classifiaction
 
-Jupyter Notebook - [Link](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/6-modeling-with-weather-data/3-modeling-multi-labels.ipynb) :link:
+Jupyter Notebook - [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/6-modeling-with-weather-data/3-modeling-multi-labels.ipynb) :link:
 
 I fitted models for multi label classification with my data. And i got some results. 
 
