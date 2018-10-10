@@ -1,7 +1,5 @@
 # Visualization for main page
 
-![alt text](https://assets.pcmag.com/media/images/561621-how-to-choose-the-right-data-visualization.jpg?thumb=y&width=810&height=456)
-
 ## Content
 
 1. Visualization for each columns: [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/8-Visualization/1-visualization%20.ipynb) :link:
@@ -11,3 +9,4 @@
 5. Visualization for schools, universities and so on: [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/8-Visualization/5-visualization-sudy.ipynb)
 
 
+![alt text](https://assets.pcmag.com/media/images/561621-how-to-choose-the-right-data-visualization.jpg?thumb=y&width=810&height=456)
