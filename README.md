@@ -63,13 +63,13 @@ DAY |	int |	1-31 |	-
 OCCURRED_ON_DATE |	datetime |	-	 | YYYY-MM-DD HH:MM:SS
 DAY_OF_WEEK |	category |	Monday - Sunday |	-
 HOUR |	int | 	0-23 |	-
-DISTRICT |	categories	| 12 unique values |	"A district is a type of administrative division that, in some countries, is managed by local government."
+DISTRICT |	categories	| 12 unique values |	"A district is a type of administrative division that, in some countries, is managed by local government." , What district the crime was reported in
 Lat	| float | 	-	| Location latitude 
 Long |	float	| -	| Location longitude
-OFFENSE_CODE_GROUP |	categories |	20-23 unique values |	I used 10 groups
-REPORTING_AREA	| int	| -	| Codes for reporting areas
+OFFENSE_CODE_GROUP |	categories |	20-23 unique values |	I used 10 groups. Internal categorization of (offense_description)
+REPORTING_AREA	| int	| -	| RA number associated with the where the crime was reported from.
 SHOOTING | boolean	| 0/1	| Offenses with shooting or without shooting
-UCR_PART	| categories |	4 unique values |	The Uniform Crime Reports (UCR)
+UCR_PART	| categories |	4 unique values |	The Uniform Crime Reports (UCR). Indicated a shooting took place.
 Day	| boolean |	0/1	| Day or night
 Night |	boolean| 	0/1	| Night or day
 ToDay	| int	| - |	Number of hour to day
