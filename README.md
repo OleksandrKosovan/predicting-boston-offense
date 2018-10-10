@@ -115,7 +115,11 @@ Number of class:
 `
 [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/1-0-total-data.ipynb) :link:
 
-**2. Elimination some features **
+
+
+**2. Elimination some features**
+
+
 
 Simular fitting, bu it is without *Location (Lat & Long)*
 
