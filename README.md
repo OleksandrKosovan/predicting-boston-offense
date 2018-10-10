@@ -113,6 +113,8 @@ Number of class:
     'Larceny From Motor Vehicle':9, 
     'Towed':10
 `
+[Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/1-0-total-data.ipynb) :link:
+
 **2. Elimination some features **
 
 Simular fitting, bu it is without *Location (Lat & Long)*
@@ -121,7 +123,43 @@ Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 ------|---------|----|---|---|---|---|---|---|---|---|---
 **Random Forest** | 0.2856 | 0.331 | 0.416 | 0.228 | 0.186 | 0.2301 | 0.132 | 0.127 | 0.527 | 0.1805 | 0.321
 
+[Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/1-1-total-data.ipynb) :link:
 
+**3. Select 2013-2015 | 2016-2018 years
+
+Simular fitting, but first for 2013-2015 years
+
+Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+------|---------|----|---|---|---|---|---|---|---|---|---
+**Random Forest** | 0.269 | 0.233 | 0.4039 | 0.2104 | 0.183 | 0.2694 | 0.121 | 0.1449 | 0.517 | 0.196 | 0.291
+
+[Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/2-select-years-13-14-15.ipynb) :link:
+
+Simular fitting, but second for 2016-2018 years
+
+Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+------|---------|----|---|---|---|---|---|---|---|---|---
+**Random Forest** |  0.3064 | 0.4005 | 0.393 | 0.2502 | 0.1355 | 0.1687 | 0.1628 | 0.1005 | 0.5673 | 0.1258 | 0.3451
+
+[Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/2-select-years-16-17-18.ipynb) :link:
+ 
+**4. Fitting for three classes with the best F1 score
+
+There are `Motor Vehicle Accident Response` & `Larceny` & `Drug Violation`
+
+Model | F1 score | Motor Vehicle Accident Response | Larceny | Drug Violation
+------|----------|---------------------------------|---------|---------------
+Random Forest | 0.6657 | 0.6753 | 0.6661 | 0.6444
+
+[Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/3-three-groups.ipynb) :link:
+
+**4. Fitting for three classes with the best F1 score. And selecing 2016-2018 years
+
+Model | F1 score | Motor Vehicle Accident Response | Larceny | Drug Violation
+------|----------|---------------------------------|---------|---------------
+Random Forest | 0.6827 | 0.73338225 | 0.60283871 | 0.66832093
+
+[Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/9-machine-learning/4-three-groups-and-select%20year.ipynb) :link:
 
 
 # IV. Other interesting results. Visualization
