@@ -27,7 +27,7 @@ Jupyter Notebook - preparation data for merging - [link](https://github.com/Olek
 
 # II. Merging data & Features engineering
 
-Jupyter Notebook - [Link](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/blob/master/5-weather-data/3-merge-offenses-data-with-weather.ipynb) :link:
+Jupyter Notebook - [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/blob/master/5-weather-data/2-preparation-weather-data-for-merging.ipynb) :link:
 
 I merged crime and weather data. I used “year”, “month”, “day” for merging. It is weather data, which we got:
 - Temperature min
