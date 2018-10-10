@@ -258,3 +258,18 @@ Scatter plot for location (Lat.Long).
 
 ![alt text](https://thumbs.gfycat.com/CanineIdleJabiru-size_restricted.gif)
 
+We can optimization our models and we can use better models.
+- XGBoost
+- LGBM
+- NN
+- etc.
+
+And we need to add new data. Ideas for it.
+
+- Traffic
+- Holidays (government or religion etc.)
+- Economics and political features
+- Twitter and facebook posts
+- Facebook events
+- Type location (office centers, parks etc.)
+- News
