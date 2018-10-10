@@ -201,6 +201,8 @@ Random Forest | 0.6827 | 0.73338225 | 0.60283871 | 0.66832093
 
 # IV. Other interesting results. Visualization
 
+![alt text](https://24dlmn2bqamt1e72kah59881-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/bar-chart-hover1.gif)
+
 ### Number of offenses for each years (2013-2017)
 
 Number of offenses increased by  **16.05 %** from 2013 to 2017.
@@ -250,3 +252,9 @@ Scatter plot for location (Lat.Long).
 ### Comprasion. Crime with drugs and Universities. Location
 
 ![alt text](https://image.ibb.co/g6PJrz/drug.png)
+
+
+# V. Evaluation
+
+![alt text](https://thumbs.gfycat.com/CanineIdleJabiru-size_restricted.gif)
+
