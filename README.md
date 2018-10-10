@@ -96,10 +96,9 @@ Non-Public_schools_number_near | int | - | Number of Non Public schools, which i
 
 - Results:
 
-Model | F1 Score | Motor Vehicle Accident Response | Larceny | Medical Assistance | Simple Assault | Violations | Investigate Person | Vandalism | Drug Violation | Larceny From Motor Vehicle | Towed
-
-**Random Forest** 0.2829 | 0.33108325, 0.42027585, 0.22042822, 0.17915155, 0.22399002,
-        0.12333826, 0.13448762, 0.51912868, 0.17553882, 0.32405992,
+Model | F1 Score | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+------|---------|----|---|---|---|---|---|---|---|---|---
+**Random Forest** | 0.2829 | 0.331 | 0.42 | 0.22 | 0.179 | 0.223 | 0.123 | 0.134 | 0.519 | 0.175 | 0.324 
 
 
 
