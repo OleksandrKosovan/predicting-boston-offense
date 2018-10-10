@@ -102,3 +102,4 @@ GaussianNB	0.3458
 ### So, what am i going to do?
 
 I want to clean and comment my Jupyter Notebooks. Then i will research category, which i predict. And i will found new data for merging. 
+
