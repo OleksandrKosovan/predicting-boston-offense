@@ -27,19 +27,19 @@ And it can help reduce number of offenses.
 
 # II. Project content
 
-1. Using Kaggle data. Offenses for 2015-2018 years. (*Visualization, modeling*)[Kaggle](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/tree/master/1-Kaggle-data) :link:
+1. Using Kaggle data. Offenses for 2015-2018 years. (*Visualization, modeling*)[Link](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/1-Kaggle-data) :link:
 
-2. Merging data. Offenses for 2012-2018 years. [Merging](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/tree/master/2-marge_data) :link:
+2. Merging data. Offenses for 2012-2018 years. [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/2-marge_data) :link:
 
-3. Researching and modeling with new data after merging. Offenses for 2012-2018 years. [Researching and modeling with new data](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/tree/master/3-research-modeling-with-new_data) :link:
+3. Researching and modeling with new data after merging. Offenses for 2012-2018 years. [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/3-research-modeling-with-new_data) :link:
 
-4. Merging and modeling with weather data. Offenses for 2012-2015 years. [Merging and modeling with weather](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/tree/master/4-merge-modeling-with-weather) :link:
+4. Merging and modeling with weather data. Offenses for 2012-2015 years. [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/4-merge-modeling-with-weather) :link:
 
-5. Parsing weather for 2012-2018 years. [Weather data](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/tree/master/5-weather-data) :link:
+5. Parsing weather for 2012-2018 years. [Link](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/6-modeling-with-weather-data) :link:
 
-6. Modeling with weather data. Offenses for 2012-2018 years.[Modeling with weather data](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/tree/master/6-modeling-with-weather-data) :link:
+6. Modeling with weather data. Offenses for 2012-2018 years.[Link](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/6-modeling-with-weather-data) :link:
 
-7. [Add data](https://github.com/OleksandrKosovan/Boston-offenses-research-predict/tree/master/7-add-data) :link:
+7. [Adding data](https://github.com/OleksandrKosovan/predicting-boston-offense/tree/master/7-Adding-new-data) :link:
 
 # III. The best machine learning results
 
